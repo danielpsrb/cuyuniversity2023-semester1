@@ -1,0 +1,18 @@
+{
+  "name": "sesi-7-cuy-university",
+  "version": "1.0.0",
+  "description": "sesi 7 cuyuniversity backend",
+  "main": "index.js",
+  "scripts": {
+    "nyala": "nodemon index.js"
+  },
+  "keywords": [
+    "abcdefghi"
+  ],
+  "author": "danielpasaribu",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "rupiah-format": "^1.0.0"
+  }
+}
